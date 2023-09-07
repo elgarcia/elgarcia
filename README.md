@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align="center">
+  <img src="https://giphy.com/gifs/work-computer-laptop-5GS13A3jXN9xSQF6HL" width="600" height"300" />
+</div>
 ### :man_technologist: About Me :
 
 <!--
