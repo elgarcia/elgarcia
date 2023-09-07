@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://giphy.com/gifs/work-computer-laptop-5GS13A3jXN9xSQF6HL" width="600" height"300" />
+  <img src="https://media1.giphy.com/media/5GS13A3jXN9xSQF6HL/giphy.gif" width="500" height="200" />
 </div>
 ### :man_technologist: About Me :
 
