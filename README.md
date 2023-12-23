@@ -1,4 +1,4 @@
-### Welcome everyone to my profile 👋
+### Welcome to Elgarcia profile 👋
 <div align="center">
   <img src="https://media1.giphy.com/media/5GS13A3jXN9xSQF6HL/giphy.gif" width="500" height="200" />
 </div>
@@ -7,7 +7,11 @@
 
 ### :man_technologist: About Me :
 
-I am 42 & DAW student and i love to code! 💻
+I am a passionate junior software developer with experience in various programming languages and technologies, always looking for new challenges and learning opportunities.
+
+Right now I studying in 42 Barcelona & DAW 💻
+
+My target is to learn and use differents languages to successfully work as Full Stack Developer 📚
 
 ---
 
