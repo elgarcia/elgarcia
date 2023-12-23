@@ -9,7 +9,7 @@
 
 I am a passionate junior software developer with experience in various programming languages and technologies, always looking for new challenges and learning opportunities.
 
-Right now I studying in 42 Barcelona & DAW 💻
+Right now I am studying in 42 Barcelona & DAW 💻
 
 My target is to learn and use differents languages to successfully work as Full Stack Developer 📚
 
