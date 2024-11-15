@@ -7,9 +7,11 @@
 
 ### :man_technologist: About Me :
 
-I am a passionate junior software developer with experience in various programming languages and technologies, always looking for new challenges and learning opportunities.
+Passionate about software and web delevopment, currently I manage certain languages both backend and frontend and
+always eager and willing to learn more. 
 
-Right now I am studying in 42 Barcelona & DAW 💻
+I have completed my studies in Java Backend Developer, where I worked with
+microservices, REST APIs, and web applications with a functional user interface.
 
 My target is to learn and use differents languages to successfully work as Full Stack Developer 📚
 
